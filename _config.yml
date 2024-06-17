@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zeju Li(李泽钜)"
 title_separator          : "-"
 name                     : &name "Zeju Li"
-description              : &description "Senior student at BUPT"
+description              : &description "PhD at CUHK"
 url                      : https://staymylove.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "staymylove/staymylove.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Zeju Li 李泽钜"
   avatar           : "profile.png"
-  bio              : "Senior @BUPT"
-  location         : "Beijing China"
+  bio              : "PhD @CUHK"
+  location         : "Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=fn8w4lgAAAAJ"
