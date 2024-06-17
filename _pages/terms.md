@@ -32,7 +32,7 @@ We propose a practical physical layer black-box attack method to destroy the rob
   - Duty: I do research in Diffusion model and AI4Science. I study VAE, DDPM and DDIM, and try to solve combinatorial optimization problems by DDPM.
 
 <p align="center">
-  <img src="https://staymylove.github.io/images/bjsy.jpg" style="height: 50px; width:140px">
+  <img src="https://staymylove.github.io/images/bjsy.jpg" style="height: 40px; width:120px">
 </p>
 - 2023.08-Now Beijing Shuyuan Digital City Research Center
 
@@ -43,7 +43,41 @@ We propose a practical physical layer black-box attack method to destroy the rob
 <p align="center">
   <img src="https://staymylove.github.io/images/cuhksz.jpg" style="height: 50px; width:250px">
 </p>
-- 2023.07-Now GAP Lab, The Chinese University of Hong Kong (Shenzhen)
+- 2023.07-2024.04 GAP Lab, The Chinese University of Hong Kong (Shenzhen)
 
   - Interest: 3d generation and 3d model edit. (supervised by Xiaoguang Han)
-  - Duty: I do research in 3d generation (sketch to 3D) and 3d model edit.
+  - Duty: I do research in 3d generation (sketch to 3D) and 3d model edit. We work on the topic ’Sketch to 3D’, using text prompts and sketch to controllable generate high-quality 3D objects. Besides, I work on the topic of human reconstruction with gaussian splatting. I finish my bachelor thesis in GAP lab.
+
+
+<p align="center">
+  <img src="https://staymylove.github.io/_pages/kasut.png" style="height: 50px; width:250px">
+</p>
+- 2024.04-Now King Abdullah University of Science and Technology (KAUST)
+
+  - Interest: LLM continual learning (supervised by Mohamed Elhoseiny)
+  - Duty: I do research in LLM continual learning, transfer learning as a visiting student.
+
+
+
+<p align="center">
+  <img src="https://staymylove.github.io/_pages/cuhk.png" style="height: 70px; width:250px">
+</p>
+- 2024.05-Now Cure Lab, The Chinese University of Hong Kong 
+
+  - Interest: Code-LLM, tokenizer, RTL LLM alignment. (supervised by Qiang Xu)
+  - Duty: I do research in RTL(verilog) represent learning and understanding by LLM, alignment of HLS and RTL, Large Circuit Model.
+
+
+
+<p align="center">
+  <img src="https://staymylove.github.io/_pages/eda.png" style="height: 35px; width:250px">
+</p>
+- 2024.05-Now Nanjing Industrial Innovation Center of EDA
+
+  - Interest: Code-LLM, tokenizer, RTL LLM alignment. (supervised by Qiang Xu)
+  - Duty: I do research in RTL(verilog) represent learning and understanding by LLM, alignment of HLS and RTL, Large Circuit Model.
+
+
+    
+
+
