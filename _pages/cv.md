@@ -9,56 +9,57 @@ redirect_from:
 
 {% include base_path %}
 
-- Senior, Class for talent, Beijing University of Posts and Telecommunications
-- E-Mail: lizeju@bupt.edu.cn ; lizeju0727@gmail.com
 
 ## Education
 
-- 2020.09- Now ~ Beijing University of Posts and Telecommunications(BUPT)
+- 2020.09 - 2024.06 ~ Beijing University of Posts and Telecommunications (BUPT)
   - School of information and communication engineering, Communication Engineering, Class for talent
-
+- 2024.08 - 2028.06 ~ The Chinese Univeristy of Hong Kong 
+  - Department of Computer Science and Engineering
+ 
+    
 ## Internships
 
 - 2021.06-2022.12 Intelligent System Research Group in BUPT
-  - Interests: NLP and Knowledge graph (Mentor: Chunhong Zhang)
+  - Interests: NLP and Knowledge graph (supervised by Chunhong Zhang and Xinning Zhu)
   - Duty:  I have studied the Pytorch, Linux, and NLP models. We proposed an automated knowledge extraction for data extraction, data cleaning, and graph fusion
 framework over 100 knowledge graphs. The paper got **best paper award nomination in ICALT2023**.
 
-- 2022.05-Now National Engineering Research Center of Mobile Network Security in BUPT
-  - Interest: Multimodal and Semantic communication (Mentor: Prof. Guoshun Nan and Xiaofeng Tao)
+- 2022.05-2023.03 National Engineering Research Center of Mobile Network Security in BUPT
+  - Interest: Multimodal and Semantic communication (supervised by Prof. Guoshun Nan and Xiaofeng Tao)
   - Duty: I do research in multimodal information fusion and semantic communication systems. We proposed channel-layer black-box attack method targeting semantic communication systems and a unified framework for semantic protection. Our 3 papers have been accepted by **VTC2022fall, ICC2023 and IEEE Communication Magazine**. In 2023, we proposed a multimodal semantic communication system that utilizes text information assisting in image transmission and reconstruction.
 
 - 2023.03-2023.05 Graph Data Mining and Machine Learning Lab (GAMMA Lab) in BUPT
 
-  - Interest: Data Mining and GNN (Mentor: Prof. Chuan Shi)
-  - Duty: I study GNN and graph data mining.I do research and coding for papers in the CCF-A conferences of GNN model.
+  - Interest: Data Mining and GNN (supervised by Prof. Chuan Shi)
+  - Duty: I study GNN and graph data mining.
 
 - 2023.04-2023.07 The National Laboratory of Pattern Recognition (NLPR) at the Institute of Automation of the Chinese Academy of Sciences (CASIA).
 
   - Interest: Diffusion model and AI4Science. 
   - Duty: I do research in diffusion model, AIG and AI4Science.
 
-- 2023.07-Now GAP Lab, Chinese University of Hong Kong (Shenzhen)
+- 2023.07-2024.04 GAP Lab, Chinese University of Hong Kong (Shenzhen)
 
-  - Interest: AIGC and 3d generation. (Prof.Xiaoguang Han)
-  - Duty: I do research in image and 3d generation methods such as zero123, T2I-Adapter
-and Clipasso. We work on the topic ’Sketch to 3D’, using text prompts and simple
-sketch to controllable generate high-quality 3D objects. Our paper will submit to
-SIGGRAPH2024.
+  - Interest: AIGC and 3d generation. (supervised by Prof.Xiaoguang Han)
+  - Duty: I do research in image and 3d generation. We work on the topic ’Sketch to 3D’, using text prompts and sketch to controllable generate high-quality 3D objects. I finish my bachelor thesis in GAP lab.
 
-- 2023.08-Now Beĳing Shuyuan Technology Co., Ltd
+- 2023.08-Now Beĳing Shuyuan Research Center
   - Interest: multi-modal, 3d scene understanding and LLM.
-  - Duty: I do research in understanding and perception of 3D scenes, and inject visual and
-multi-modal information into LLM to create a multi-modal 3D LLM. The 3D LLM can perceive and understand the scene and the relationships between objects within the scene, making downstream tasks (segmentation, QA, positioning)
-more effective. Our work is available at https://arxiv.org/abs/2401.03201. I will focus on the topic of 3D-LLM which can understand and generate 3D.
+  - Duty: I do research in understanding and perception of 3D scenes, and inject visual and multi-modal information into LLM to create a multi-modal 3D LLM. The 3D LLM can perceive and understand the scene and the relationships between objects within the scene, making downstream tasks more effective. Our work : 3DMIT (ICME-3DMM 2024), SeeingMore (ECCV2024).
 
-
-
+- 2023.04-Now King Abdullah University of Science and Technology (KAUST)
+  - Interest: LLM continual learning (supervised by Mohamed Elhoseiny)
+  - Duty: I do research in LLM continual learning, transfer learning as a visiting student.
+ .
+- 2023.05-Now CUHK & Nanjing EDA Research Center
+  - Interest: Code-LLM, tokenizer, RTL LLM alignment. (supervised by Qiang Xu)
+  - Duty: I do research in RTL(verilog) represent learning and understanding by LLM, alignment of HLS and RTL, Large Circuit Model.
 
 ## Publications
-- **Zeju Li**, Chao Zhang, Xiaoyan Wang, Ruilong Ren, Yifan Xu, Ruifei Ma, Xiangde Liu. 3DMIT: 3D Multi-modal Instruction Tuning for Scene Understanding. Under Review, [[pdf]](https://arxiv.org/abs/2401.03201) [[code]](https://github.com/staymylove/3DMIT)
-- **Zeju Li**, Xinghan Liu, Guoshun Nan* , Jinfei Zhou, Xinchen Lyu, Qimei Cui, Xiaofeng Tao. Boosting Physical Layer Black-Box Attacks with Semantic Adversaries in Semantic Communications. *Proceedings of the International Communication Conference.* **(ICC 2023)(Communication top conference)** [[pdf]](https://ieeexplore.ieee.org/document/10278790)
-- **Zeju Li**, Linya Cheng, Chunhong Zhang, Xinning Zhu, Hui ZhaoMulti-source Education Knowledge Graph Construction and Fusion for College Curricula.*Proceedings of the  IEEE International Conference on Advanced Learning Technologies.* **(ICALT 2023)(AI+education top conference)** [[pdf]](https://ieeexplore.ieee.org/document/10328183)
+- **Zeju Li**, Chao Zhang, Xiaoyan Wang, Ruilong Ren, Yifan Xu, Ruifei Ma, Xiangde Liu. 3DMIT: 3D Multi-modal Instruction Tuning for Scene Understanding.**(ICME-3DMM 2024)**, [[pdf]](https://arxiv.org/abs/2401.03201) [[code]](https://github.com/staymylove/3DMIT)
+- **Zeju Li**, Xinghan Liu, Guoshun Nan* , Jinfei Zhou, Xinchen Lyu, Qimei Cui, Xiaofeng Tao. Boosting Physical Layer Black-Box Attacks with Semantic Adversaries in Semantic Communications. *Proceedings of the International Communication Conference.* **(ICC 2023)** [[pdf]](https://ieeexplore.ieee.org/document/10278790)
+- **Zeju Li**, Linya Cheng, Chunhong Zhang, Xinning Zhu, Hui ZhaoMulti-source Education Knowledge Graph Construction and Fusion for College Curricula.*Proceedings of the  IEEE International Conference on Advanced Learning Technologies.* **(ICALT 2023)** [[pdf]](https://ieeexplore.ieee.org/document/10328183)
 - **Zeju Li**, Jinfei Zhou, Guoshun Nan* , Zhichun Li, Qimei Cui, Xiaofeng Tao. SemBAT: Physical Layer Black-box Adversarial Attacks for Deep Learning-based Semantic Communication Systems. *2022 IEEE 96th Vehicular Technology Conference.* **(VTC 2022-fall)** [[pdf]](https://ieeexplore.ieee.org/document/10012766)
 - Xinghan Liu, Guoshun Nan*, Qimei Cui, **Zeju Li**, Peiyuan Liu, Zebin Xing, Hanqing Mu, Yuanwei Liu, Xiaofeng Tao. SemProtector: A Unified Framework for Semantic Protection in Deep Learning-based Semantic Communication Systems. **(IEEE Communciation Magazine)(SCI Q1)**[[pdf]](https://ieeexplore.ieee.org/document/10328183)
 - Zhiyuan Wu, Sheng Sun, Min Liu, Quyang Pan, Junbo Zhang, Yuwei Wang*, **Zeju Li**, and Qingxiang Liu. Exploring the Distributed Knowledge Congruence in Proxy-data-free Federated Distillation. **(ACM Transactions on Intelligent Systems and Technology)(CAA Rank A、SCI Q1)**[[pdf]](https://arxiv.org/abs/2204.07028)
@@ -68,7 +69,11 @@ more effective. Our work is available at https://arxiv.org/abs/2401.03201. I wil
 
 - Best Paper Award Nomination by The IEEE Technical Community on Learning Technology(2023) [[certificate]](https://tc.computer.org/tclt/icalt-2023-best-paper-award-nominations/)
 
-- Singapore International Pre-Graduate Award(SIPGA)
+- Singapore International Pre-Graduate Award(SIPGA) 2023
+- BUPT-SICE Excellent Student Creative Foundation 2023
+- Outstanding Graduate of BUPT 2024
+- Candidates for Special Scholarship in BUPT 2024
+- Full Postgraduate Studentship in CUHK 2024
 
 - People’s Daily Scholarship 2023
   
