@@ -14,7 +14,7 @@ Welcome to [Zeju Li (李泽钜)](https:/staymylove.github.io/) 's homepage!
 
 I'm a 1st-year PhD in The Chinese Univeristy of Hong Kong, the Department of Computer Science and Engineering. 
 
-Before that, I got my bachelor's degree in 'class for talent' of Beijing University of Posts and Telecommunications (BUPT) with honor. I also have some wonderful research experiments in Institute of Automation and Institute of Computing Technology of Chinese Academy of Sciences, Beijing Shuyuan Research Center, Nanjing EDA Research Center, BUPT, KAUST, CUHKSZ and CUHK.
+Before that, I got my bachelor's degree in 'class for talent' of Beijing University of Posts and Telecommunications (BUPT) with honor. I also have some wonderful research experiences in Institute of Automation and Institute of Computing Technology of Chinese Academy of Sciences, Beijing Shuyuan Research Center, Nanjing EDA Research Center, BUPT, KAUST, CUHKSZ and CUHK.
 
 My research interests include Computer Vision, Code-LLM, 3D-LLM and Multimodality. Here is my latest [curriculum vitae](https://staymylove.github.io/cv/).
 
