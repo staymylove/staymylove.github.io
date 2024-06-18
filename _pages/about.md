@@ -31,13 +31,13 @@ My research interests include Computer Vision, Code-LLM, 3D-LLM and Multimodalit
 
 # Education
 
-<img src="https://staymylove.github.io/images/bupto.png" style="height: 70px; width: 70px" align="left">
+<img src="https://staymylove.github.io/images/bupto.png" style="height: 75px; width: 75px" align="left">
 
 **Beijing University of Posts and Telecommunications** (2020.09-2024.06)
 
 **B.E.** in School of Information and Communication Engineering, class for talent
 
-<img src="https://staymylove.github.io/images/cuhk.png" style="height: 80px; width: 80px" align="left">
+<img src="https://staymylove.github.io/images/cuhk.png" style="height: 75px; width: 75px" align="left">
 
 **The Chinese Univeristy of Hong Kong** (2024.08-2028.06)
 
