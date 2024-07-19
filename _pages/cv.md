@@ -48,11 +48,11 @@ framework over 100 knowledge graphs. The paper got **best paper award nomination
   - Interest: multi-modal, 3d scene understanding and LLM.
   - Duty: I do research in understanding and perception of 3D scenes, and inject visual and multi-modal information into LLM to create a multi-modal 3D LLM. The 3D LLM can perceive and understand the scene and the relationships between objects within the scene, making downstream tasks more effective. Our work : 3DMIT (ICME-3DMM 2024), SeeingMore (ECCV2024).
 
-- 2023.04-Now King Abdullah University of Science and Technology (KAUST)
+- 2024.04-Now King Abdullah University of Science and Technology (KAUST)
   - Interest: LLM continual learning (supervised by Mohamed Elhoseiny)
   - Duty: I do research in LLM continual learning, transfer learning as a visiting student.
  .
-- 2023.05-Now CUHK & Nanjing EDA Research Center
+- 2024.05-Now CUHK & Nanjing EDA Research Center
   - Interest: Code-LLM, tokenizer, RTL LLM alignment. (supervised by Qiang Xu)
   - Duty: I do research in RTL(verilog) represent learning and understanding by LLM, alignment of HLS and RTL, Large Circuit Model.
 
@@ -69,10 +69,16 @@ framework over 100 knowledge graphs. The paper got **best paper award nomination
 
 - Best Paper Award Nomination by The IEEE Technical Community on Learning Technology(2023) [[certificate]](https://tc.computer.org/tclt/icalt-2023-best-paper-award-nominations/)
 
+- Best Paper Award Candidate by ICME-3DMM 2024
+
 - Singapore International Pre-Graduate Award(SIPGA) 2023
+
 - BUPT-SICE Excellent Student Creative Foundation 2023
+  
 - Outstanding Graduate of BUPT 2024
+  
 - Candidates for Special Scholarship in BUPT 2024
+  
 - Full Postgraduate Studentship in CUHK 2024
 
 - People’s Daily Scholarship 2023
