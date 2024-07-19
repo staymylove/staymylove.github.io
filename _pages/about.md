@@ -18,7 +18,7 @@ Before that, I got my bachelor's degree in 'class for talent' of Beijing Univers
 
 My research interests include Computer Vision, Code-LLM, 3D-LLM and Multimodality. Here is my latest [curriculum vitae](https://staymylove.github.io/cv/).
 
-**I am actively looking for academic collaboration, feel free to drop me an email. (lizeju0727@gmail.com)**
+**I am actively looking for academic collaboration, feel free to drop me an email. (email: lizeju0727@gmail.com , wechat: 18743403848)**
 
 
 
@@ -70,6 +70,7 @@ My research interests include Computer Vision, Code-LLM, 3D-LLM and Multimodalit
 # News
 - \[2024.05\] I join Cure Lab in CUHK as research assistant, supervised by Qiang Xu, and incoming PhD in August.
 - \[2024.04\] I join KAUST as a visiting student, supervised by Mohamed Elhoseiny.
+- \[2024.04\] Our work 3DMIT is accepted by ICME-3DMM, selected as candidates of best paper award.
 - \[2023.10\] I receive Singapore International Pre-Graduate Award(SIPGA) by I2R of A STAR.
 - \[2023.08\] I join Beijing Shuyuan Research Center as a research intern. My research interets include multi-modal LLM and 3D world LLM.
 - \[2023.07\] I join The Chinese University of Hong Kong(Shenzhen) by [Prof. Xiaoguang Han](https://gaplab.cuhk.edu.cn/). My research interets and fields are AIGC and 3D generation.
@@ -85,6 +86,7 @@ My research interests include Computer Vision, Code-LLM, 3D-LLM and Multimodalit
 - **China National Endeavor Scholarship**, 2021,2022,2023, Ministry of Education of China
 - **Singapore International Pre-Graduate Award (SIPGA)**, 2023, A STAR of Singapore
 - **People's Daily Scholarship**, 2024, People's Daily Online of China [[web]](http://yjy.people.com.cn/n1/2023/1214/c441532-40139097.html)
+- **Best Paper Award Candidate**, 2024, ICME-3DMM
 - **Best Paper Nomination Award**, 2023, The IEEE Technical Community on Learning Technology [[web]](https://tc.computer.org/tclt/icalt-2023-best-paper-award-nominations/)
 - **BUPT-SICE Excellent Student Creative Foundation**, 2023, Beijing University of Posts and Telecommunications
 - **Outstanding Graduate of BUPT**, 2024, Beijing University of Posts and Telecommunications
