@@ -17,7 +17,7 @@ author_profile: true
 <p align="center">
   <img src="https://staymylove.github.io/images/BUPT.png" style="height: 50px; width:200px">
 </p>
-- 2022.05-2023.5 National Engineering Research Center of Mobile Network Security 
+- 2022.05-2023.03 National Engineering Research Center of Mobile Network Security 
 
   - Interest: Multi-modal and Semantic communication (Mentor: Prof. Guoshun Nan)
   - Duty: I do research in AI for Communication and Semantic communication based on deep learning.
@@ -34,7 +34,7 @@ We propose a practical physical layer black-box attack method to destroy the rob
 <p align="center">
   <img src="https://staymylove.github.io/images/bjsy.jpg" style="height: 40px; width:120px">
 </p>
-- 2023.08-Now Beijing Shuyuan Digital City Research Center
+- 2023.08-2024.07 Beijing Shuyuan Digital City Research Center
 
   - Interest: 3D Multimodal LLM and scene understanding. 
   - Duty: I do research in 3D-LLM and 3d scene understanding. We introduce a novel and efficient prompt tuning paradigm, 3DMIT. This paradigm eliminates the alignment stage between 3D scenes and language and extends the instruction prompt with the 3D modality information including the entire scene and segmented objects. Our code is available at https://github.com/staymylove/3DMIT.
@@ -52,7 +52,7 @@ We propose a practical physical layer black-box attack method to destroy the rob
 <p align="center">
   <img src="https://staymylove.github.io/_pages/kasut.png" style="height: 50px; width:250px">
 </p>
-- 2024.04-Now King Abdullah University of Science and Technology (KAUST)
+- 2024.04-2024.09 King Abdullah University of Science and Technology (KAUST)
 
   - Interest: LLM continual learning (supervised by Mohamed Elhoseiny)
   - Duty: I do research in LLM continual learning, transfer learning as a visiting student.
@@ -60,19 +60,9 @@ We propose a practical physical layer black-box attack method to destroy the rob
 
 
 <p align="center">
-  <img src="https://staymylove.github.io/_pages/cuhk.png" style="height: 70px; width:250px">
-</p>
-- 2024.05-Now Cure Lab, The Chinese University of Hong Kong 
-
-  - Interest: Code-LLM, tokenizer, RTL LLM alignment. (supervised by Qiang Xu)
-  - Duty: I do research in RTL(verilog) represent learning and understanding by LLM, alignment of HLS and RTL, Large Circuit Model.
-
-
-
-<p align="center">
   <img src="https://staymylove.github.io/_pages/eda.png" style="height: 35px; width:250px">
 </p>
-- 2024.05-Now Nanjing Industrial Innovation Center of EDA
+- 2024.05-2024.10 Nanjing Industrial Innovation Center of EDA
 
   - Interest: Code-LLM, tokenizer, RTL LLM alignment. (supervised by Qiang Xu)
   - Duty: I do research in RTL(verilog) represent learning and understanding by LLM, alignment of HLS and RTL, Large Circuit Model.
