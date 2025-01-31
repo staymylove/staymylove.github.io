@@ -16,7 +16,9 @@ I'm a 1st-year PhD in The Chinese Univeristy of Hong Kong, the Department of Com
 
 Before that, I got my bachelor's degree in 'class for talent' of Beijing University of Posts and Telecommunications (BUPT) with honor. I also have some wonderful research experiences in Institute of Automation and Institute of Computing Technology of Chinese Academy of Sciences, Beijing Shuyuan Research Center, Nanjing EDA Research Center, BUPT, KAUST, CUHKSZ and CUHK.
 
-My research interests include LLM reasoning, Code-LLM, 3D-LLM and Multimodality. Here is my latest [curriculum vitae](https://staymylove.github.io/cv/).
+My research interests include LLM reasoning, Code-LLM, 3D-LLM and Multimodality. 
+
+<!--Here is my latest [curriculum vitae](https://staymylove.github.io/cv/). -->
 
 **I am actively looking for academic collaboration, feel free to drop me an email. (lizeju0727@gmail.com, wechat: 18743403848)**
 
@@ -69,6 +71,8 @@ My research interests include LLM reasoning, Code-LLM, 3D-LLM and Multimodality.
 
 # News
 - \[2025.01\] One paper was accepted by ICLR2025.
+- \[2024.11\] We got Honorable Mention Award of LLM4HWDesign Contest of ICCAD 2024.
+- \[2024.08\] Fortunately got Huawei PhD Fellowship.
 - \[2024.05\] I join Cure Lab in CUHK as research assistant, supervised by Qiang Xu, and incoming PhD in August.
 - \[2024.04\] I join KAUST as a visiting student, supervised by Mohamed Elhoseiny.
 - \[2024.04\] Our work 3DMIT is accepted by ICME-3DMM 2024 and selected as candidates of the Best Paper Award.
