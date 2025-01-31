@@ -16,7 +16,7 @@ I'm a 1st-year PhD in The Chinese Univeristy of Hong Kong, the Department of Com
 
 Before that, I got my bachelor's degree in 'class for talent' of Beijing University of Posts and Telecommunications (BUPT) with honor. I also have some wonderful research experiences in Institute of Automation and Institute of Computing Technology of Chinese Academy of Sciences, Beijing Shuyuan Research Center, Nanjing EDA Research Center, BUPT, KAUST, CUHKSZ and CUHK.
 
-My research interests include Computer Vision, Code-LLM, 3D-LLM and Multimodality. Here is my latest [curriculum vitae](https://staymylove.github.io/cv/).
+My research interests include LLM reasoning, Code-LLM, 3D-LLM and Multimodality. Here is my latest [curriculum vitae](https://staymylove.github.io/cv/).
 
 **I am actively looking for academic collaboration, feel free to drop me an email. (lizeju0727@gmail.com, wechat: 18743403848)**
 
@@ -39,7 +39,7 @@ My research interests include Computer Vision, Code-LLM, 3D-LLM and Multimodalit
 
 <img src="https://staymylove.github.io/images/cuhk.png" style="height: 75px; width: 75px" align="left">
 
-**The Chinese Univeristy of Hong Kong** (2024.08-2028.06)
+**The Chinese Univeristy of Hong Kong** (2024.08-)
 
 **Ph.D** in Department of Computer Science and Engineering
 
@@ -68,6 +68,7 @@ My research interests include Computer Vision, Code-LLM, 3D-LLM and Multimodalit
 
 
 # News
+- \[2025.01\] One paper was accepted by ICLR2025.
 - \[2024.05\] I join Cure Lab in CUHK as research assistant, supervised by Qiang Xu, and incoming PhD in August.
 - \[2024.04\] I join KAUST as a visiting student, supervised by Mohamed Elhoseiny.
 - \[2024.04\] Our work 3DMIT is accepted by ICME-3DMM 2024 and selected as candidates of the Best Paper Award.
@@ -82,6 +83,7 @@ My research interests include Computer Vision, Code-LLM, 3D-LLM and Multimodalit
 - \[2021.05\] I join in the State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecomunications.
 
 
+<!--
 # Selected Rewards
 - **China National Endeavor Scholarship**, 2021,2022,2023, Ministry of Education of China
 - **Singapore International Pre-Graduate Award (SIPGA)**, 2023, A STAR of Singapore
@@ -93,6 +95,7 @@ My research interests include Computer Vision, Code-LLM, 3D-LLM and Multimodalit
 - **Candidates for Special Scholarships**, 2024, Beijing University of Posts and Telecommunications
 - **Full Postgraduate Studentship**, 2024, The Chinese Univeristy of Hong Kong
 
+
 # Publications
 
 - **Zeju Li**, Chao Zhang, Xiaoyan Wang, Ruilong Ren, Yifan Xu, Ruifei Ma, Xiangde Liu. 3DMIT: 3D Multi-modal Instruction Tuning for Scene Understanding. **(ICME-3DMM 2024)**, [[pdf]](https://arxiv.org/abs/2401.03201) [[code]](https://github.com/staymylove/3DMIT)
@@ -101,7 +104,7 @@ My research interests include Computer Vision, Code-LLM, 3D-LLM and Multimodalit
 - **Zeju Li**, Jinfei Zhou, Guoshun Nan* , Zhichun Li, Qimei Cui, Xiaofeng Tao. SemBAT: Physical Layer Black-box Adversarial Attacks for Deep Learning-based Semantic Communication Systems. *2022 IEEE 96th Vehicular Technology Conference.* **(VTC 2022-fall)** [[pdf]](https://ieeexplore.ieee.org/document/10012766)
 - Xinghan Liu, Guoshun Nan*, Qimei Cui, **Zeju Li**, Peiyuan Liu, Zebin Xing, Hanqing Mu, Yuanwei Liu, Xiaofeng Tao. SemProtector: A Unified Framework for Semantic Protection in Deep Learning-based Semantic Communication Systems. **(IEEE Communciation Magazine)(SCI Q1)**[[pdf]](https://ieeexplore.ieee.org/document/10328183)
 - Zhiyuan Wu, Sheng Sun, Min Liu, Quyang Pan, Junbo Zhang, Yuwei Wang*, **Zeju Li**, and Qingxiang Liu. Exploring the Distributed Knowledge Congruence in Proxy-data-free Federated Distillation. **(ACM Transactions on Intelligent Systems and Technology)(SCI Q1)**[[pdf]](https://arxiv.org/abs/2204.07028)
-
+-->
 
 <br />
 <div style="text-align: center; line-height: 100px">
