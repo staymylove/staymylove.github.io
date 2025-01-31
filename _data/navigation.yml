@@ -4,9 +4,11 @@ main:
 #     url: /publications/
 
     
-  - title: "CV"
-    url: /cv/
+  - title: "Awards"
+    url: /award/
   - title: "Publications"
     url: /publications/
-  - title: "research experiences"
+  - title: "Internships"
     url: /terms/
+  - title: "Teaching"
+    url: /teach
