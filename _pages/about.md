@@ -12,7 +12,7 @@ redirect_from:
 
 Welcome to [Zeju Li (李泽钜)](https:/staymylove.github.io/) 's homepage!
 
-I'm a 1st-year PhD in The Chinese Univeristy of Hong Kong, the Department of Computer Science and Engineering. 
+I'm a PhD student in The Chinese Univeristy of Hong Kong, the Department of Computer Science and Engineering, supervised by Qiang Xu. 
 
 Before that, I got my bachelor's degree in 'class for talent' of Beijing University of Posts and Telecommunications (BUPT) with honor. I also have some wonderful research experiences in Institute of Automation and Institute of Computing Technology of Chinese Academy of Sciences, Beijing Shuyuan Research Center, Nanjing EDA Research Center, BUPT, KAUST, CUHKSZ and CUHK.
 
