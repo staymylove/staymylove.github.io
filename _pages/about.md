@@ -12,7 +12,7 @@ redirect_from:
 
 Welcome to [Zeju Li (李泽钜)](https:/staymylove.github.io/) 's homepage!
 
-I'm a PhD student in The Chinese Univeristy of Hong Kong, the Department of Computer Science and Engineering, supervised by Qiang Xu. 
+I'm a PhD student in The Chinese Univeristy of Hong Kong, the Department of Computer Science and Engineering, supervised by Prof.Qiang Xu. 
 
 Before that, I got my bachelor's degree in 'class for talent' of Beijing University of Posts and Telecommunications (BUPT) with honor. I also have some wonderful research experiences in Institute of Automation and Institute of Computing Technology of Chinese Academy of Sciences, Beijing Shuyuan Research Center, Nanjing EDA Research Center, BUPT, KAUST, CUHKSZ and CUHK.
 
@@ -73,12 +73,12 @@ My research interests include LLM reasoning, Code-LLM, 3D-LLM and Multimodality.
 - \[2025.01\] One paper was accepted by ICLR2025.
 - \[2024.11\] We got Honorable Mention Award of LLM4HWDesign Contest of ICCAD 2024.
 - \[2024.08\] Fortunately got Huawei PhD Fellowship.
-- \[2024.05\] I join Cure Lab in CUHK as research assistant, supervised by Qiang Xu, and incoming PhD in August.
-- \[2024.04\] I join KAUST as a visiting student, supervised by Mohamed Elhoseiny.
+- \[2024.05\] I join Cure Lab in CUHK as research assistant, supervised by Prof.Qiang Xu.
+- \[2024.04\] I join KAUST as a visiting student, supervised by Prof.Mohamed Elhoseiny.
 - \[2024.04\] Our work 3DMIT is accepted by ICME-3DMM 2024 and selected as candidates of the Best Paper Award.
 - \[2023.10\] I receive Singapore International Pre-Graduate Award(SIPGA) by I2R of A STAR.
 - \[2023.08\] I join Beijing Shuyuan Research Center as a research intern. My research interets include multi-modal LLM and 3D world LLM.
-- \[2023.07\] I join The Chinese University of Hong Kong(Shenzhen) by [Prof. Xiaoguang Han](https://gaplab.cuhk.edu.cn/). My research interets and fields are AIGC and 3D generation.
+- \[2023.07\] I join The Chinese University of Hong Kong(Shenzhen) by Prof.Xiaoguang Han. My research interets and fields are AIGC and 3D generation.
 - \[2023.04\] Our work about "knowledge graph construction and fusion" is accepted "ICALT 2023" and receives the Best Paper Award Nomination.
 - \[2023.04\] I work at the National Laboratory of Pattern Recognition (NLPR) at the Institute of Automation of the Chinese Academy of Sciences (CASIA) as a research intern. My research interets and fields are diffusion model and AI4Science. 
 - \[2023.01\] Our work on "robust and safety about semantic communication" is accepted by "ICC 2023"and "IEEE Communciation Magazine".
