@@ -70,7 +70,7 @@ My research interests include LLM reasoning, Code-LLM, 3D-LLM and Multimodality.
 
 
 # News
-- \[2025.01\] One paper was accepted by ICLR2025.
+- \[2025.01\] One paper was accepted by ICLR2025, and will be presented as a Spotlight.
 - \[2024.11\] We got Honorable Mention Award of LLM4HWDesign Contest of ICCAD 2024.
 - \[2024.08\] Fortunately got Huawei PhD Fellowship.
 - \[2024.05\] I join Cure Lab in CUHK as research assistant, supervised by Prof.Qiang Xu.
