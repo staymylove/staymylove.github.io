@@ -43,22 +43,22 @@ author_profile: true
 
 - **Multi-source Education Knowledge Graph Construction and Fusion for College Curricula.**  |[[PDF]](https://ieeexplore.ieee.org/document/10328183)|  <br>
   <tiny><em><strong>Zeju Li</strong>, Linya Cheng, Chunhong Zhang, Xinning Zhu, Hui Zhao.</em></tiny>
-  **(ICALT 2023)(Oral, Best Paper Nomination)**
+  <tiny><em><strong>(ICALT 2023)(Oral, Best Paper Nomination)</strong></em></tiny>
 
 - **SemBAT: Physical Layer Black-box Adversarial Attacks for Deep Learning-based Semantic Communication Systems.**|[[PDF]](https://ieeexplore.ieee.org/document/10012766)|  <br>
   <tiny><em><strong>Zeju Li</strong>, Jinfei Zhou, Guoshun Nan*, Zhichun Li, Qimei Cui, Xiaofeng Tao.</em></tiny>
-  **(VTC 2022-fall)(Oral)**
+  <tiny><em><strong>(VTC 2022-fall)(Oral)</strong></em></tiny>
 
 - **Boosting Physical Layer Black-Box Attacks with Semantic Adversaries in Semantic Communications.**  |[[PDF]](https://ieeexplore.ieee.org/document/10278790)| <br>
   <tiny><em><strong>Zeju Li</strong>, Xinghan Liu, Guoshun Nan, Jinfei Zhou, Xinchen Lyu, Qimei Cui, Xiaofeng Tao.</em></tiny>
-  **(ICC 2023)(Oral)**
+  <tiny><em><strong>(ICC 2023)(Oral)</strong></em></tiny>
 
   
 - **SemProtector: A Unified Framework for Semantic Protection in Deep Learning-based Semantic Communication Systems.**|  [[PDF]](https://ieeexplore.ieee.org/document/10328183)|  <br>
   <tiny><em>Xinghan Liu, Guoshun Nan*, Qimei Cui, <strong>Zeju Li</strong>, Peiyuan Liu, Zebin Xing, Hanqing Mu, Yuanwei Liu, Xiaofeng Tao.</em></tiny>
-  **(IEEE Communication Magazine)(SCI Q1)**
+  <tiny><em><strong>(IEEE Communication Magazine)(SCI Q1)</strong></em></tiny>
 
 - **Exploring the Distributed Knowledge Congruence in Proxy-data-free Federated Distillation.** |[[PDF]](https://arxiv.org/abs/2204.07028)| <br>
   <tiny><em>Zhiyuan Wu, Sheng Sun, Min Liu, Quyang Pan, Junbo Zhang, Yuwei Wang*, <strong>Zeju Li</strong>, and Qingxiang Liu.</em></tiny>
-  **(ACM Transactions on Intelligent Systems and Technology)(SCI Q1)**
+  <tiny><em><strong>(ACM Transactions on Intelligent Systems and Technology)(SCI Q1)</strong></em></tiny>
 
