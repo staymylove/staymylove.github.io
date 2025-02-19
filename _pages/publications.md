@@ -8,7 +8,7 @@ author_profile: true
 (* means equal contribution)
 # **Topic 1: LLM Reasoning**
 - **Dyve: Thinking Fast and Slow for Dynamic Process Verification.**  |[PDF](https://arxiv.org/abs/2502.11157)|[Code](https://github.com/staymylove/Dyve)| <br>
-  <tiny><em>Jianyuan Zhong*, <strong>Zeju Li*</strong>, Zhijian Xu, Xiangyu Wen, Qiang Xu.</em></tiny>
+  <tiny><em>Jianyuan Zhong*, <strong>Zeju Li*</strong>, Zhijian Xu, Xiangyu Wen, Qiang Xu.</em></tiny><br>
   <tiny><em><strong>Preprint, 2025</strong></em></tiny>
 
 # **Topic 2: LLM for Hardware Code Understanding and Generation**
