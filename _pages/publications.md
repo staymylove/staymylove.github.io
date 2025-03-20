@@ -12,7 +12,7 @@ author_profile: true
   <tiny><em><strong>Preprint, 2025</strong></em></tiny>
 
 # **Topic 2: LLM for Hardware Code Understanding and Generation**
-- **DeepCircuitX: Repository-Level RTL Dataset for Code Understanding, Generation, and Multimodal Analysis.**  |[Project](https://zeju.gitbook.io/lcm-team)| <br>
+- **DeepCircuitX: Repository-Level RTL Dataset for Code Understanding, Generation, and Multimodal Analysis.**  |[PDF](https://arxiv.org/abs/2502.18297)||[Project Page](https://zeju.gitbook.io/lcm-team)| <br>
   <tiny><em><strong>Zeju Li*</strong>, Changran Xu*, Zhengyuan Shi*, Zedong Peng, Yi Liu, Yunhao Zhou, Lingfeng Zhou, Chengyu Ma, Jianyuan Zhong, Xi Wang, Jieru Zhao, Zhufei Chu, Xiaoyan Yang, Qiang Xu.</em></tiny>
   <tiny><em><strong>Preprint, 2025</strong></em></tiny>
 
@@ -32,7 +32,7 @@ author_profile: true
   <tiny><em><strong>(ICME 2024)(Oral)</strong></em></tiny>
 - **Spatial 3D-LLM : Exploring Spatial Awareness in 3D Vision-Language Models.**  |[[PDF]](https://openreview.net/forum?id=2hcfoCHKoB)| <br>
   <tiny><em>Xiaoyan Wang, <strong>Zeju Li</strong>, Yifan Xu, Jiaxing Qi, Zhifei Yang, Ruifei Ma, Xiangde Liu, Chao Zhang. </em></tiny>
-  <tiny><em><strong>ICME, 2025</strong></em></tiny>
+  <tiny><em><strong>(ICME 2025)</strong></em></tiny>
 
 
 
