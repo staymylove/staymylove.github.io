@@ -30,9 +30,9 @@ author_profile: true
 - **3DMIT: 3D Multi-modal Instruction Tuning for Scene Understanding.**  |[[PDF]](https://arxiv.org/abs/2401.03201) [[Code]](https://github.com/staymylove/3DMIT)| <br>
   <tiny><em><strong>Zeju Li</strong>, Chao Zhang, Xiaoyan Wang, Ruilong Ren, Yifan Xu, Ruifei Ma, Xiangde Liu. </em></tiny>
   <tiny><em><strong>(ICME 2024)(Oral)</strong></em></tiny>
-- **Spatial 3D-LLM: Progressive Spatial Awareness for Advanced 3D Vision-Language Understanding.**  |[[PDF]](https://openreview.net/forum?id=2hcfoCHKoB)| <br>
+- **Spatial 3D-LLM : Exploring Spatial Awareness in 3D Vision-Language Models.**  |[[PDF]](https://openreview.net/forum?id=2hcfoCHKoB)| <br>
   <tiny><em>Xiaoyan Wang, <strong>Zeju Li</strong>, Yifan Xu, Jiaxing Qi, Zhifei Yang, Ruifei Ma, Xiangde Liu, Chao Zhang. </em></tiny>
-  <tiny><em><strong>Preprint, 2025</strong></em></tiny>
+  <tiny><em><strong>ICME, 2025</strong></em></tiny>
 
 
 
