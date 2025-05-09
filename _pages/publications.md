@@ -14,11 +14,11 @@ author_profile: true
 # **Topic 2: LLM for Hardware Code Understanding and Generation**
 - **DeepCircuitX: Repository-Level RTL Dataset for Code Understanding, Generation, and Multimodal Analysis.**  |[PDF](https://arxiv.org/abs/2502.18297)||[Project Page](https://zeju.gitbook.io/lcm-team)| <br>
   <tiny><em><strong>Zeju Li*</strong>, Changran Xu*, Zhengyuan Shi*, Zedong Peng, Yi Liu, Yunhao Zhou, Lingfeng Zhou, Chengyu Ma, Jianyuan Zhong, Xi Wang, Jieru Zhao, Zhufei Chu, Xiaoyan Yang, Qiang Xu.</em></tiny>
-  <tiny><em><strong>Preprint, 2025</strong></em></tiny>
+  <tiny><em><strong>ICLAD, 2025</strong></em></tiny>
 
 - **ForgeEDA: A Comprehensive Multimodal Dataset for Advancing EDA.**  |[Project](https://zeju.gitbook.io/lcm-team/forgeeda)| <br>
   <tiny><em>Zhengyuan Shi, <strong>Zeju Li</strong>, Chengyu Ma, Yunhao Zhou, Ziyang Zheng, Jiawei Liu, Hongyang Pan, Lingfeng Zhou, Kezhi Li, Jiaying Zhu, Lingwei Yan, Zhiqiang He, Chenhao Xue, Wentao Jiang, Fan Yang, Guangyu Sun, Xiaoyan Yang, Gang Chen, Chuan Shi, Zhufei Chu, Jun Yang, Qiang Xu. </em></tiny>
-  <tiny><em><strong>Preprint, 2025</strong></em></tiny>
+  <tiny><em><strong>ISEDA, 2025</strong></em></tiny>
 
 - **DeepRTL: Bridging Verilog Understanding and Generation with a Unified Representation Model.**  |[[PDF]](https://openreview.net/forum?id=2hcfoCHKoB)| <br>
   <tiny><em>Yi Liu, Changran XU, Yunhao Zhou, <strong>Zeju Li</strong>, Qiang Xu. </em></tiny>
