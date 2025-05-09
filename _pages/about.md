@@ -70,6 +70,8 @@ My research interests include LLM reasoning, Code-LLM, 3D-LLM and Multimodality.
 
 
 # News
+- \[2025.05\] Our paper DeepCircuitX was accepted by ICLAD 2025.
+- \[2025.04\] Our paper ForgeEDA was accepted by ISEDA 2025.
 - \[2025.03\] Our paper Spatial 3D-LLM was accepted by ICME 2025.
 - \[2025.01\] Our paper DeepRTL was accepted by ICLR2025, and will be presented as a Spotlight.
 - \[2024.11\] We got Honorable Mention Award of LLM4HWDesign Contest of ICCAD 2024.
