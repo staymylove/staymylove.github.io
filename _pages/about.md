@@ -20,7 +20,7 @@ My research interests include LLM reasoning, Code-LLM, 3D-LLM and Multimodality.
 
 <!--Here is my latest [curriculum vitae](https://staymylove.github.io/cv/). -->
 
-**I am actively looking for academic collaboration, feel free to drop me an email. (lizeju0727@gmail.com, wechat: 18743403848)**
+**I am actively looking for academic collaboration, feel free to drop me an email. (lizeju0727@gmail.com)**
 
 
 
@@ -70,10 +70,11 @@ My research interests include LLM reasoning, Code-LLM, 3D-LLM and Multimodality.
 
 
 # News
+- \[2025.06\] Our paper Argus was accepted by TNNLS.
 - \[2025.05\] Our paper DeepCircuitX was accepted by ICLAD 2025.
 - \[2025.04\] Our paper ForgeEDA was accepted by ISEDA 2025.
 - \[2025.03\] Our paper Spatial 3D-LLM was accepted by ICME 2025.
-- \[2025.01\] Our paper DeepRTL was accepted by ICLR2025, and will be presented as a Spotlight.
+- \[2025.01\] Our paper DeepRTL was accepted by ICLR 2025, and will be presented as a Spotlight.
 - \[2024.11\] We got Honorable Mention Award of LLM4HWDesign Contest of ICCAD 2024.
 - \[2024.08\] Fortunately got Huawei PhD Fellowship.
 - \[2024.05\] I join Cure Lab in CUHK as research assistant, supervised by Prof.Qiang Xu.
