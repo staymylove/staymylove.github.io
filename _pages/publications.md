@@ -11,6 +11,10 @@ author_profile: true
   <tiny><em>Jianyuan Zhong*, <strong>Zeju Li*</strong>, Zhijian Xu, Xiangyu Wen, Qiang Xu.</em></tiny>
   <tiny><em><strong>Preprint, 2025</strong></em></tiny>
 
+- **Solve-Detect-Verify: Inference-Time Scaling with Flexible Generative Verifier.**  |[PDF](https://arxiv.org/abs/2505.11966)|[Code](https://github.com/JianyuanZhong/flexive)| <br>
+  <tiny><em>Jianyuan Zhong*, <strong>Zeju Li*</strong>, Zhijian Xu, Xiangyu Wen, Kezhi Li, Qiang Xu.</em></tiny>
+  <tiny><em><strong>Preprint, 2025</strong></em></tiny>
+
 # **Topic 2: LLM for Hardware Code Understanding and Generation**
 - **DeepCircuitX: Repository-Level RTL Dataset for Code Understanding, Generation, and Multimodal Analysis.**  |[PDF](https://arxiv.org/abs/2502.18297)||[Project Page](https://zeju.gitbook.io/lcm-team)| <br>
   <tiny><em><strong>Zeju Li*</strong>, Changran Xu*, Zhengyuan Shi*, Zedong Peng, Yi Liu, Yunhao Zhou, Lingfeng Zhou, Chengyu Ma, Jianyuan Zhong, Xi Wang, Jieru Zhao, Zhufei Chu, Xiaoyan Yang, Qiang Xu.</em></tiny>
@@ -24,15 +28,24 @@ author_profile: true
   <tiny><em>Yi Liu, Changran XU, Yunhao Zhou, <strong>Zeju Li</strong>, Qiang Xu. </em></tiny>
   <tiny><em><strong>(ICLR 2025)(Spotlight)</strong></em></tiny>
 
-  
+- **ForgeHLS: A Large-Scale, Open-Source Dataset for High-Level Synthesis.**  |[[PDF]](https://arxiv.org/abs/2507.03255)| <br>
+  <tiny><em>Zedong Peng, <strong>Zeju Li</strong>, Mingzhe Gao, Qiang Xu, Chen Zhang, Jieru Zhao. </em></tiny>
+  <tiny><em><strong>Preprint, 2025</strong></em></tiny>
+
+
+
 # **Topic 3: MLLM for 3D World Understanding**
 
 - **3DMIT: 3D Multi-modal Instruction Tuning for Scene Understanding.**  |[[PDF]](https://arxiv.org/abs/2401.03201) [[Code]](https://github.com/staymylove/3DMIT)| <br>
   <tiny><em><strong>Zeju Li</strong>, Chao Zhang, Xiaoyan Wang, Ruilong Ren, Yifan Xu, Ruifei Ma, Xiangde Liu. </em></tiny>
-  <tiny><em><strong>(ICME 2024)(Oral)</strong></em></tiny>
-- **Spatial 3D-LLM : Exploring Spatial Awareness in 3D Vision-Language Models.**  |[[PDF]](https://openreview.net/forum?id=2hcfoCHKoB)| <br>
+  <tiny><em><strong>(ICME-3DMM 2024)(Oral)</strong></em></tiny>
+- **Spatial 3D-LLM : Exploring Spatial Awareness in 3D Vision-Language Models.**  |[[PDF]](https://arxiv.org/abs/2507.16524)| <br>
   <tiny><em>Xiaoyan Wang, <strong>Zeju Li</strong>, Yifan Xu, Jiaxing Qi, Zhifei Yang, Ruifei Ma, Xiangde Liu, Chao Zhang. </em></tiny>
-  <tiny><em><strong>(ICME 2025)</strong></em></tiny>
+  <tiny><em><strong>(ICME 2025)(Oral)</strong></em></tiny>
+
+- **Argus: Leveraging Multiview Images for Improved 3-D Scene Understanding With Large Language Models.**  |[[PDF]](https://arxiv.org/abs/2507.12916)| <br>
+  <tiny><em>Yifan Xu, Chao Zhang, Hanqi Jiang, Xiaoyan Wang, Ruifei Ma, Yiwei Li, Zihao Wu, <strong>Zeju Li</strong>, Xiangde Liu. </em></tiny>
+  <tiny><em><strong>(TNNLS)</strong></em></tiny>
 
 
 
