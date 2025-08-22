@@ -14,7 +14,7 @@ Welcome to [Zeju Li (李泽钜)](https:/staymylove.github.io/) 's homepage!
 
 I'm a PhD student in The Chinese Univeristy of Hong Kong, the Department of Computer Science and Engineering, supervised by Prof.Qiang Xu. 
 
-Before that, I got my bachelor's degree in 'class for talent' of Beijing University of Posts and Telecommunications (BUPT) with honor. I also have some wonderful research experiences in Institute of Automation and Institute of Computing Technology of Chinese Academy of Sciences, Beijing Shuyuan Research Center, Nanjing EDA Research Center, BUPT, KAUST, CUHKSZ and CUHK.
+Before that, I got my bachelor's degree in 'class for talent' of Beijing University of Posts and Telecommunications (BUPT) with honor. I also have some wonderful research experiences in Institute of Automation and Institute of Computing Technology of Chinese Academy of Sciences, Beijing Shuyuan Research Center, Nanjing EDA Research Center, KAUST, CUHKSZ and CUHK.
 
 My research interests include LLM reasoning, Code-LLM, 3D-LLM and Multimodality. 
 
@@ -70,6 +70,7 @@ My research interests include LLM reasoning, Code-LLM, 3D-LLM and Multimodality.
 
 
 # News
+- \[2025.08\] 2 papers were accepted by EMNLP 2025.
 - \[2025.06\] Our paper Argus was accepted by TNNLS.
 - \[2025.05\] Our paper DeepCircuitX was accepted by ICLAD 2025.
 - \[2025.04\] Our paper ForgeEDA was accepted by ISEDA 2025.
