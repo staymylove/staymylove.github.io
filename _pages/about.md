@@ -14,9 +14,9 @@ Welcome to [Zeju Li (李泽钜)](https:/staymylove.github.io/) 's homepage!
 
 I'm a PhD student in The Chinese Univeristy of Hong Kong, the Department of Computer Science and Engineering, supervised by Prof.Qiang Xu. 
 
-Before that, I got my bachelor's degree in 'class for talent' of Beijing University of Posts and Telecommunications (BUPT) with honor. I also have some wonderful research experiences in Institute of Automation and Institute of Computing Technology of Chinese Academy of Sciences, Beijing Shuyuan Research Center, Nanjing EDA Research Center, BUPT, KAUST, CUHKSZ and CUHK.
+Before that, I got my bachelor's degree in 'class for talent' of Beijing University of Posts and Telecommunications (BUPT) with honor. I also have some wonderful research experiences in Institute of Automation and Institute of Computing Technology of Chinese Academy of Sciences, Beijing Shuyuan Research Center, Nanjing EDA Research Center, BUPT, KAUST, CUHKSZ, Huawei and CUHK.
 
-My research interests include LLM reasoning, Code-LLM, 3D-LLM and Multimodality. 
+My research interests include LLM reasoning with RL, LLM Efficiency, Vision-LLM and Multi-modality. 
 
 <!--Here is my latest [curriculum vitae](https://staymylove.github.io/cv/). -->
 
@@ -35,13 +35,13 @@ My research interests include LLM reasoning, Code-LLM, 3D-LLM and Multimodality.
 
 <img src="https://staymylove.github.io/images/bupto.png" style="height: 75px; width: 75px" align="left">
 
-**Beijing University of Posts and Telecommunications** (2020.09-2024.06)
+**Beijing University of Posts and Telecommunications** (2020.09 - 2024.06)
 
 **B.E.** in School of Information and Communication Engineering, class for talent
 
 <img src="https://staymylove.github.io/images/cuhk.png" style="height: 75px; width: 75px" align="left">
 
-**The Chinese Univeristy of Hong Kong** (2024.08-)
+**The Chinese Univeristy of Hong Kong** (2024.08 - Now)
 
 **Ph.D** in Department of Computer Science and Engineering
 
@@ -70,10 +70,12 @@ My research interests include LLM reasoning, Code-LLM, 3D-LLM and Multimodality.
 
 
 # News
+- \[2025.08\] Our paper ThinkAnswer Loss was accepted by EMNLP Findings as Poster.
+- \[2025.08\] Our paper Dyve was accepted by EMNLP Main Conference as Poster.
 - \[2025.06\] Our paper Argus was accepted by TNNLS.
-- \[2025.05\] Our paper DeepCircuitX was accepted by ICLAD 2025.
-- \[2025.04\] Our paper ForgeEDA was accepted by ISEDA 2025.
-- \[2025.03\] Our paper Spatial 3D-LLM was accepted by ICME 2025.
+- \[2025.05\] Our paper DeepCircuitX was accepted by ICLAD 2025 as Oral.
+- \[2025.04\] Our paper ForgeEDA was accepted by ISEDA 2025 as Oral.
+- \[2025.03\] Our paper Spatial 3D-LLM was accepted by ICME 2025 as Oral.
 - \[2025.01\] Our paper DeepRTL was accepted by ICLR 2025, and will be presented as a Spotlight.
 - \[2024.11\] We got Honorable Mention Award of LLM4HWDesign Contest of ICCAD 2024.
 - \[2024.08\] Fortunately got Huawei PhD Fellowship.
