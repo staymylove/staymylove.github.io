@@ -15,7 +15,7 @@ author_profile: true
   <tiny><em>Jianyuan Zhong*, <strong>Zeju Li*</strong>, Zhijian Xu, Xiangyu Wen, Kezhi Li, Qiang Xu.</em></tiny>
   <tiny><em><strong>Preprint, 2025</strong></em></tiny>
 
- - **ThinkAnswer Loss: Balancing Semantic Similarity and Exact Matching for LLM Reasoning Enhancement.**  |[PDF]()|[Code]()| <br>
+ - **ThinkAnswer Loss: Balancing Semantic Similarity and Exact Matching for LLM Reasoning Enhancement.** <br>
   <tiny><em>Shan Yang* , Kun Wu*† , <strong>Zeju Li*†</strong>, Linlin Zhang∗, Xiangyu Pei, Leike An and Yu Liu. </em></tiny>
   <tiny><em><strong>EMNLP Findings, 2025</strong></em></tiny>
 
