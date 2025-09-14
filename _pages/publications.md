@@ -15,6 +15,10 @@ author_profile: true
   <tiny><em>Jianyuan Zhong*, <strong>Zeju Li*</strong>, Zhijian Xu, Xiangyu Wen, Kezhi Li, Qiang Xu.</em></tiny>
   <tiny><em><strong>Preprint, 2025</strong></em></tiny>
 
+ - **ThinkAnswer Loss: Balancing Semantic Similarity and Exact Matching for LLM Reasoning Enhancement.** <br>
+  <tiny><em>Shan Yang* , Kun Wu*† , <strong>Zeju Li*†</strong>, Linlin Zhang*, Xiangyu Pei, Leike An and Yu Liu. </em></tiny>
+  <tiny><em><strong>EMNLP Findings, 2025</strong></em></tiny>
+
 - **Compressing Chain-of-Thought in LLMs via Step Entropy.**  |[PDF](https://arxiv.org/abs/2508.03346)|[Code](https://github.com/staymylove/COT_Compresstion_via_Step_entropy)| <br>
   <tiny><em><strong>Zeju Li</strong>, Jianyuan Zhong, Ziyang Zheng, Xiangyu Wen, Zhijian Xu, Yingying Cheng, Fan Zhang, Qiang Xu
 .</em></tiny>
@@ -22,9 +26,7 @@ author_profile: true
 
 
 
- - **ThinkAnswer Loss: Balancing Semantic Similarity and Exact Matching for LLM Reasoning Enhancement.** <br>
-  <tiny><em>Shan Yang* , Kun Wu*† , <strong>Zeju Li*†</strong>, Linlin Zhang∗, Xiangyu Pei, Leike An and Yu Liu. </em></tiny>
-  <tiny><em><strong>EMNLP Findings, 2025</strong></em></tiny>
+
 
 
   
