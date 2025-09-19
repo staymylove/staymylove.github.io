@@ -24,7 +24,9 @@ author_profile: true
 .</em></tiny>
   <tiny><em><strong>Preprint, 2025</strong></em></tiny>
 
-
+- **Dependency Matters: Enhancing LLM Reasoning with Explicit Knowledge Grounding.** <br>
+  <tiny><em>Xiangyu Wen, Min Li, Junhua Huang, Jianyuan Zhong, Zhijian Xu, <strong>Zeju Li</strong>, Yongxiang Huang, Mingxuan Yuan, Qiang Xu. </em></tiny>
+  <tiny><em><strong>NeurIPS, 2025</strong></em></tiny>
 
 
 
