@@ -20,7 +20,7 @@ My research interests include LLM reasoning with RL, LLM Efficiency, Vision-LLM 
 
 <!--Here is my latest [curriculum vitae](https://staymylove.github.io/cv/). -->
 
-**I am actively looking for academic collaboration, feel free to drop me an email. (lizeju0727@gmail.com)**
+**I am actively looking for academic collaboration and discussion, feel free to drop me an email. (lizeju0727@gmail.com)**
 
 
 
@@ -70,6 +70,7 @@ My research interests include LLM reasoning with RL, LLM Efficiency, Vision-LLM 
 
 
 # News
+- \[2025.09\] Our paper Dependency Matters (LLM Reasoning) was accepted by NeurIPS as Poster.
 - \[2025.08\] Our paper ThinkAnswer Loss was accepted by EMNLP Findings as Poster.
 - \[2025.08\] Our paper Dyve was accepted by EMNLP Main Conference as Poster.
 - \[2025.06\] Our paper Argus was accepted by TNNLS.
