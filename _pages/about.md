@@ -70,9 +70,11 @@ My research interests include LLM reasoning with RL, LLM Efficiency, Vision-LLM 
 
 
 # News
-- \[2025.09\] Our paper Dependency Matters (LLM Reasoning) was accepted by NeurIPS as Poster.
-- \[2025.08\] Our paper ThinkAnswer Loss was accepted by EMNLP Findings as Poster.
-- \[2025.08\] Our paper Dyve was accepted by EMNLP Main Conference as Poster.
+- \[2026.01\] Our paper Reasoning Scaffolding: Distilling the Flow of Thought from LLMs was accepted by ICLR 2026.
+- \[2026.01\] Our paper Making Slow Thinking Faster: Compressing LLM Chain-of-Thought via Step Entropy was accepted by ICLR 2026.
+- \[2025.09\] Our paper Dependency Matters (LLM Reasoning) was accepted by NeurIPS 2025 as Poster.
+- \[2025.08\] Our paper ThinkAnswer Loss was accepted by EMNLP 2025 Findings as Poster.
+- \[2025.08\] Our paper Dyve was accepted by EMNLP 2025 Main Conference as Poster.
 - \[2025.06\] Our paper Argus was accepted by TNNLS.
 - \[2025.05\] Our paper DeepCircuitX was accepted by ICLAD 2025 as Oral.
 - \[2025.04\] Our paper ForgeEDA was accepted by ISEDA 2025 as Oral.
