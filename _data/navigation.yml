@@ -4,11 +4,11 @@ main:
 #     url: /publications/
 
     
-  - title: "Awards"
-    url: /award/
+  # - title: "Awards"
+  #   url: /award/
   - title: "Publications"
     url: /publications/
-  - title: "Internships"
-    url: /terms/
-  - title: "Teaching"
-    url: /teach
+  # - title: "Internships"
+  #   url: /terms/
+  # - title: "Teaching"
+  #   url: /teach
