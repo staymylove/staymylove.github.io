@@ -8,18 +8,23 @@ author_profile: true
 (* means equal contribution)
 # **Topic 1: LLM Reasoning & RL**
 
-- **Compressing Chain-of-Thought in LLMs via Step Entropy.**  |[PDF](https://arxiv.org/abs/2508.03346)|[Code](https://github.com/staymylove/COT_Compresstion_via_Step_entropy)| <br>
-  <tiny><em><strong>Zeju Li</strong>, Jianyuan Zhong, Ziyang Zheng, Xiangyu Wen, Zhijian Xu, Yingying Cheng, Fan Zhang, Qiang Xu
-.</em></tiny>
+- **Making Slow Thinking Faster: Compressing LLM Chain-of-Thought via Step Entropy.**  |[PDF](https://arxiv.org/abs/2508.03346)|[Code](https://github.com/staymylove/COT_Compresstion_via_Step_entropy)| <br>
+  <tiny><em><strong>Zeju Li</strong>, Jianyuan Zhong, Ziyang Zheng, Xiangyu Wen, Zhijian Xu, Yingying Cheng, Fan Zhang, Qiang Xu.</em></tiny>
   <tiny><em><strong>ICLR 2026</strong></em></tiny>
+
+
+- **Latent Context Compilation: Distilling Long Context into Compact Portable Memory.**  |[PDF](https://arxiv.org/abs/2602.21221)|[Code](https://github.com/staymylove/LCC)| <br>
+  <tiny><em><strong>Zeju Li</strong>, Yizhou Zhou, Qiang Xu.</em></tiny>
+  <tiny><em><strong>Preprint, 2026</strong></em></tiny>
+
+- **Solve-Detect-Verify: Inference-Time Scaling with Flexible Generative Verifier.**  |[PDF](https://arxiv.org/abs/2505.11966)|[Code](https://github.com/JianyuanZhong/flexive)| <br>
+  <tiny><em>Jianyuan Zhong*, <strong>Zeju Li*</strong>, Zhijian Xu, Xiangyu Wen, Kezhi Li, Qiang Xu.</em></tiny>
+  <tiny><em><strong>ACL Main, 2026</strong></em></tiny>
 
 - **Dyve: Thinking Fast and Slow for Dynamic Process Verification.**  |[PDF](https://arxiv.org/abs/2502.11157)|[Code](https://github.com/staymylove/Dyve)| <br>
   <tiny><em>Jianyuan Zhong*, <strong>Zeju Li*</strong>, Zhijian Xu, Xiangyu Wen, Qiang Xu.</em></tiny>
   <tiny><em><strong>EMNLP Main, 2025</strong></em></tiny>
 
-- **Solve-Detect-Verify: Inference-Time Scaling with Flexible Generative Verifier.**  |[PDF](https://arxiv.org/abs/2505.11966)|[Code](https://github.com/JianyuanZhong/flexive)| <br>
-  <tiny><em>Jianyuan Zhong*, <strong>Zeju Li*</strong>, Zhijian Xu, Xiangyu Wen, Kezhi Li, Qiang Xu.</em></tiny>
-  <tiny><em><strong>Preprint, 2025</strong></em></tiny>
 
 - **ThinkAnswer Loss: Balancing Semantic Similarity and Exact Matching for LLM Reasoning Enhancement.** <br>
   <tiny><em>Shan Yang* , Kun Wu*† , <strong>Zeju Li*†</strong>, Linlin Zhang*, Xiangyu Pei, Leike An and Yu Liu. </em></tiny>
