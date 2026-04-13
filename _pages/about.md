@@ -70,6 +70,7 @@ My research interests include LLM reasoning with RL, LLM Efficiency, Vision-LLM 
 
 
 # News
+- \[2026.01\] Our paper Solve-Detect-Verify: Inference-Time Scaling with Flexible Generative Verifier was accepted by ACL 2026 Main Conference.
 - \[2026.01\] Our paper Reasoning Scaffolding: Distilling the Flow of Thought from LLMs was accepted by ICLR 2026.
 - \[2026.01\] Our paper Making Slow Thinking Faster: Compressing LLM Chain-of-Thought via Step Entropy was accepted by ICLR 2026.
 - \[2025.09\] Our paper Dependency Matters (LLM Reasoning) was accepted by NeurIPS 2025 as Poster.
