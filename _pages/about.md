@@ -12,15 +12,15 @@ redirect_from:
 
 Welcome to [Zeju Li (李泽钜)](https:/staymylove.github.io/) 's homepage!
 
-I'm a PhD student in The Chinese Univeristy of Hong Kong, the Department of Computer Science and Engineering, supervised by Prof.Qiang Xu. 
+I'm a 3rd-year PhD Candidate in The Chinese Univeristy of Hong Kong, the Department of Computer Science and Engineering, supervised by Prof. Qiang Xu. 
 
-Before that, I got my bachelor's degree in 'class for talent' of Beijing University of Posts and Telecommunications (BUPT) with honor. I also have some wonderful research experiences in Institute of Automation and Institute of Computing Technology of Chinese Academy of Sciences, Beijing Shuyuan Research Center, Nanjing EDA Research Center, BUPT, KAUST, CUHKSZ, Huawei and CUHK.
+Before that, I got my bachelor's degree in 'class for talent' of Beijing University of Posts and Telecommunications (BUPT) with honor. I also have some wonderful research experiences in Institute of Automation in CAS, Institute of Computing Technology in CAS, Bytedance.
 
-My research interests include LLM reasoning with RL, LLM Efficiency, Vision-LLM and Multi-modality. 
+My research interests include Post-Training (RL) for Foundation Model, Long-term Agent Memory, LLM Efficiency and VLM. 
 
 <!--Here is my latest [curriculum vitae](https://staymylove.github.io/cv/). -->
 
-**I am actively looking for academic collaboration and discussion, feel free to drop me an email. (lizeju0727@gmail.com)**
+**I am in 2027 job market and actively looking for academic collaboration, feel free to drop me an email. (lizeju0727@gmail.com)**
 
 
 
@@ -35,13 +35,13 @@ My research interests include LLM reasoning with RL, LLM Efficiency, Vision-LLM 
 
 <img src="https://staymylove.github.io/images/bupto.png" style="height: 75px; width: 75px" align="left">
 
-**Beijing University of Posts and Telecommunications** (2020.09 - 2024.06)
+**Beijing University of Posts and Telecommunications**, 2020.09 - 2024.06
 
 **B.E.** in School of Information and Communication Engineering, class for talent
 
 <img src="https://staymylove.github.io/images/cuhk.png" style="height: 75px; width: 75px" align="left">
 
-**The Chinese Univeristy of Hong Kong** (2024.08 - Now)
+**The Chinese Univeristy of Hong Kong**, 2024.08 - 2027.11 (expected)
 
 **Ph.D** in Department of Computer Science and Engineering
 
@@ -70,15 +70,17 @@ My research interests include LLM reasoning with RL, LLM Efficiency, Vision-LLM 
 
 
 # News
+- \[2026.07\] Our paper Latent Context Compilation: Distilling Long Context into Compact Portable Memory was accepted by COLM 2026. See you in San Francisco🇺🇸. 
+- \[2026.04\] I got Gold Reviewer Award. See you in Seoul🇰🇷. 
 - \[2026.04\] Our project for OpenClaw Security Solution is released: https://arbiteros.ai/
-- \[2026.04\] Our paper Solve-Detect-Verify: Inference-Time Scaling with Flexible Generative Verifier was accepted by ACL 2026 Main Conference.
-- \[2026.01\] Our paper Reasoning Scaffolding: Distilling the Flow of Thought from LLMs was accepted by ICLR 2026.
-- \[2026.01\] Our paper Making Slow Thinking Faster: Compressing LLM Chain-of-Thought via Step Entropy was accepted by ICLR 2026.
-- \[2025.09\] Our paper Dependency Matters (LLM Reasoning) was accepted by NeurIPS 2025 as Poster.
-- \[2025.08\] Our paper ThinkAnswer Loss was accepted by EMNLP 2025 Findings as Poster.
-- \[2025.08\] Our paper Dyve was accepted by EMNLP 2025 Main Conference as Poster.
+- \[2026.04\] Our paper Solve-Detect-Verify: Inference-Time Scaling with Flexible Generative Verifier was accepted by ACL 2026 Main Conference. See you in USA🇺🇸. 
+- \[2026.01\] Our paper Reasoning Scaffolding: Distilling the Flow of Thought from LLMs was accepted by ICLR 2026. See you in Rio🇧🇷. 
+- \[2026.01\] Our paper Making Slow Thinking Faster: Compressing LLM Chain-of-Thought via Step Entropy was accepted by ICLR 2026. See you in Rio🇧🇷.
+- \[2025.09\] Our paper Dependency Matters (LLM Reasoning) was accepted by NeurIPS 2025. See you in USA🇺🇸.
+- \[2025.08\] Our paper ThinkAnswer Loss was accepted by EMNLP 2025 Findings. See you in Suzhou🇨🇳.
+- \[2025.08\] Our paper Dyve was accepted by EMNLP 2025 Main Conference. See you in Suzhou🇨🇳.
 - \[2025.06\] Our paper Argus was accepted by TNNLS.
-- \[2025.05\] Our paper DeepCircuitX was accepted by ICLAD 2025 as Oral.
+- \[2025.05\] Our paper DeepCircuitX was accepted by ICLAD 2025 as Oral. See you in USA🇺🇸.
 - \[2025.04\] Our paper ForgeEDA was accepted by ISEDA 2025 as Oral.
 - \[2025.03\] Our paper Spatial 3D-LLM was accepted by ICME 2025 as Oral.
 - \[2025.01\] Our paper DeepRTL was accepted by ICLR 2025, and will be presented as a Spotlight.
